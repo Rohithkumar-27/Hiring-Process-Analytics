@@ -1,1 +1,3 @@
 # Hiring-Process-Analytics
+
+This project involved analyzing a company's hiring data to gain insights into gender distribution, salary distribution, and departmental analysis. Using Excel functions such as COUNTIF and AVERAGEIFS, I calculated the average salary across departments and analyzed the gender distribution among new hires. The project also explored salary distribution by creating class intervals and visualizing the data through histograms and pie charts. Additionally, I conducted a position tier analysis to visualize the distribution of roles across different levels in the organization. This analysis provided key insights into hiring trends and helped optimize the recruitment process by highlighting disparities in gender representation and salary allocation.
